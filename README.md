@@ -10,7 +10,7 @@ Bruteforce attack for Facebook Account
 
 ## Run commands one by one
 ```
->> git clone https://github.com/sadamshr3be/sadamalsharabi-haker
+>> git clone https://github.com/Mr-Dark-elkabos12/MrDark-elkabos.py.git
 >> cd MrDark-elkabos
 >> pip3 install requests bs4
 >> pip install mechanize
